@@ -1,0 +1,13 @@
+{
+  "name": "cloudformed",
+  "description": "CloudFormed SDK",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cloudformed/pkg.git"
+  },
+  "keywords": [],
+  "author": "CloudFormed",
+  "license": "MIT",
+  "homepage": "https://github.com/monatheoctocat/my_package"
+}
